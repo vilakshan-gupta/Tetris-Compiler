@@ -1,0 +1,35 @@
+Section1
+#
+Somename = 0
+#
+Someothername = 1
+#
+difficulty=2
+#
+fg_color=5
+#
+bg_color=3
+#
+update_duration=100
+#
+speed_increase_factor=1
+#
+speed_decrease_factor=1
+#
+direction=1
+#
+shadow=0
+#
+next=0
+#
+Section2
+#
+{ Func2 Someothername=Someothername + Somename }
+#
+{ run Somename = [call move_piece with direction=1 ] }
+#
+{Func3 while( 3 + 5 ) while( 3+ 5 )Someothername=5 end end}
+#
+Section3
+#
+[ play with height=20 width=20 fg_color=fg_color bg_color=bg_color difficulty=difficulty rotation_limit=3 update_duration=update_duration]
