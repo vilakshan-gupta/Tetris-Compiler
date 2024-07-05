@@ -106,14 +106,4 @@ The available color options are:
 5. Navigate the game menu using the arrow keys and press Enter to select an option.
 6. Play the game and enjoy!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Tetris Logo](/img.png)
-
-
-
-
-Ameya Kasture
-2021A7PS2058G
-
-
-
 ****
